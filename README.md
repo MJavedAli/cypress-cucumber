@@ -40,7 +40,6 @@ Feature: The Facebook
 
 ```
 
-
 [GitHub.feature](https://github.com/MJavedAli/cypress-cucumber/blob/master/cypress/integration/socialNetworks/GitHub.feature)
 ```
 @feature-tag @github-tag
