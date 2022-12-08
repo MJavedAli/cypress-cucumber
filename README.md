@@ -63,7 +63,7 @@ Feature: The GitHub
   have `@feature-tag` above the feature name, and `Google.feature` has no tags, the result should be: 
   
   ```
-      Spec                                                Tests  Passing  Failing  Pending  Skipped
+     Spec                                                 Tests  Passing  Failing  Pending  Skipped
   ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
   │ ✔ socialNetworks/Facebook.feature           00:04        2        2        -        -        - │
   ├────────────────────────────────────────────────────────────────────────────────────────────────┤
